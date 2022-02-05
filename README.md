@@ -1,4 +1,4 @@
-# Apollo Federation 2 Example
+# Apollo GraphQL Federation 2 Example
 
 Simple POC with Apollo Federation 2
 
