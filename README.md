@@ -67,4 +67,10 @@ rover fed2 supergraph compose --config ./src/supergraph-config.yaml > ./src/supe
 
 ## Prints
 
+![terminal](https://user-images.githubusercontent.com/20428703/152649562-b4f08677-0c16-4cb8-a7bc-1e8d25dc77da.png)
 
+![Studio Home](https://user-images.githubusercontent.com/20428703/152649564-45276601-c774-4b03-8b92-1ff6f9a10762.png)
+
+![Schema](https://user-images.githubusercontent.com/20428703/152649565-caa815e5-dd44-4e8b-b2d5-b49d50286939.png)
+
+![Query](https://user-images.githubusercontent.com/20428703/152649568-51a36508-82ae-4b20-9268-bec8391ac201.png)
