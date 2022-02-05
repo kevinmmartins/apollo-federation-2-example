@@ -1,7 +1,16 @@
+import { readFileSync } from 'fs'
+
+import { config } from 'dotenv'
 import { ApolloGateway } from '@apollo/gateway'
 import { ApolloServer } from 'apollo-server'
 
-const gateway = new ApolloGateway()
+config()
+
+const supergraphSdl = readFileSync('./src/supergraph.graphql').toString()
+
+const gateway = new ApolloGateway({
+  supergraphSdl
+})
 
 const server = new ApolloServer({
   gateway,
