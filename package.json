@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/kevinmmartins/apollo-federation-2-example#readme",
   "dependencies": {
-    "@apollo/gateway": "^2.0.0-alpha.5",
+    "@apollo/gateway": "^2.10.1",
     "apollo-server": "^3.6.2",
     "dotenv": "^16.0.0",
     "esm": "^3.2.25",
